@@ -1,1 +1,8 @@
 @import "tailwindcss";
+@theme{
+    /* Brand Colors */
+    --color-primary: #9146FF;
+
+    --font-heading: 'Rajdhani';
+    --font-body: 'Poppins';
+}
