@@ -1,7 +1,7 @@
 import { faTwitch } from "@fortawesome/free-brands-svg-icons";
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import React, { useState } from "react";
+import { useState } from "react";
 
 const navLinks = [
   { name: "Home", href: "#home" },
